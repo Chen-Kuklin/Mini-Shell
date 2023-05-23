@@ -1,6 +1,3 @@
-/*Racheli Corcia
-id: 207346263*/
-
 
 #include<stdio.h>
 #include<unistd.h>
